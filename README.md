@@ -1,5 +1,2 @@
-# Customer Segmentation using K-means
-## Galery :
+## Customer Segmentation using K-means
 
-![](https://github.com/thisishusseinali/customer-segmentation/blob/main/notebooks/download%20(5).png)
-![](https://github.com/thisishusseinali/customer-segmentation/blob/main/notebooks/download%20(6).png)
